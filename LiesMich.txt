@@ -1,0 +1,20 @@
+Off-Plattform-Projekt: Exkursion
+
+In diesem Projekt erstellen Sie eine Webseite, die ein Produkt namens „Excursion“ bewirbt. 
+Sie verwenden Ihr wachsendes Toolset, einschließlich HTML, CSS, Befehlszeilenschnittstelle, Git und GitHub. 
+Wenn alles zusammenpasst, werden Sie stolz auf sich sein!
+
+Auf der Webseite, die wir erstellen werden, wird eine mobile App beworben, mit der Benutzer ihre Erfahrungen 
+aufzeichnen und teilen können. Daher verwenden wir Videos und 
+Landschaftsbilder, um die Szene in Szene zu setzen. Eine Landingpage ist heutzutage ein 
+wichtiges Instrument bei der Vermarktung eines Produkts. Das Ziel besteht darin, potenzielle Kunden 
+zur Nutzung des Produkts zu verleiten.
+
+Wir arbeiten mit Git und GitHub auf unseren lokalen Computern. Wenn Sie dies noch nicht getan haben, 
+lesen Sie die Artikel zum Einrichten der Befehlszeilenschnittstelle und zum Git-Setup.
+
+Eine Vorschau auf das Endergebnis:https://content.codecademy.com/programs/freelance-one/excursion/index.html
+Zum Projekt bei Codecademy: https://www.codecademy.com/paths/learn-how-to-build-websites/tracks/finishing-touches-and-publishing-a-website/modules/git-and-publishing-to-github-pages/projects/f1-excursion
+
+Das Desing-Mock: https://content.codecademy.com/programs/freelance-one/excursion/mocks/excursion.png
+Das Redline-Mock: https://content.codecademy.com/programs/freelance-one/excursion/mocks/excursion_redline.png
